@@ -42,8 +42,8 @@ https://hoodie-git-main-mahmoudfawzy10s-projects.vercel.app/
 graph TD;
   A[HTML5 ✅] --> B[CSS3 ✅];
   B --> C[Bootstrap ✅ 100%];
-  C --> D[Tailwind CSS 🚀 25%];
-  D --> E[JavaScript 🚀 25%];
+  C --> D[Tailwind CSS ✅ 100%];
+  D --> E[JavaScript 🚀 30%];
   E --> F[DOM Manipulation 🎯];
   F --> G[Frontend Frameworks 🌟];
   G --> H[Backend Development ⚡];
