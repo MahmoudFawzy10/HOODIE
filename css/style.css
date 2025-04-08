@@ -1,0 +1,28 @@
+body {
+  /* this fonts for the paragraph */
+  /* font-family: "Monoton", sans-serif; */
+  /* this font for all body  */
+  font-family: "Wallpoet", sans-serif;
+}
+/* Start our collection 1  */
+.our-collection .box {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 10px 10px 10px -1px;
+}
+.our-collection img {
+  height: 500px;
+}
+/* End our collection 1  */
+/* start sweatshirt-collection */
+.sweatshirt-coll .box {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 10px 10px 10px -1px;
+}
+/* Stille in sweatshirt collection  */
+.sweatshirt-coll-2 .box {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 10px 10px 10px -1px;
+}
+/* End sweatshirt-collection */
+/* Start winters */
+.winters .box {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 10px 10px 10px -1px;
+}
+/* End winters */
