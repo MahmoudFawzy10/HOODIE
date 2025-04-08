@@ -30,7 +30,7 @@ https://hoodie-git-main-mahmoudfawzy10s-projects.vercel.app/
   [![CSS3](https://img.shields.io/badge/CSS3-100%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-100%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-25%25-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-100%25-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 </div>
 
